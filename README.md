@@ -14,7 +14,7 @@ O sistema identifica e traduz as classes gramaticais de cada palavra digitada.
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/vihsilvadacosta/analise-lexica-andrea.git
    cd seu_repositorio
    ```
 
